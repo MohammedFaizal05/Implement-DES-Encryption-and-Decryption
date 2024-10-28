@@ -1,4 +1,4 @@
-# Implement DES Encryption and Decryption
+# Ex7-Implement DES Encryption and Decryption
 
 
 ## Aim:
